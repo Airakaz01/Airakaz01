@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zakaria EL Houari, aka @Airakaz01
+- 👋 Hi, I’m Zakaria EL Houari, @Airakaz01
 - 👀 I’m interested in Data Engineering, Web Development, and creating impactful projects.
 - 🌱 I’m currently learning React.js and working on CODEX, a club for IT and Data Engineering students at ENSA Khouribga. I'm also diving deeper into .NET and Angular for my Scrabble game project!
 - 💞️ I’m looking to collaborate on data science and web development projects, especially those that involve .NET Core, SQL Server, and Angular.
